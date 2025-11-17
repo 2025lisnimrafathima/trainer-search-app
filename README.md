@@ -1,1 +1,0 @@
-# trainer-search-app
